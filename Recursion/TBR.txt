@@ -1,0 +1,2 @@
+1) Hanoi tower
+2) Josephus Algorithm

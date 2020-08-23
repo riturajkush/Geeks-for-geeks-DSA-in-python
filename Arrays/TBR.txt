@@ -1,0 +1,9 @@
+1) kadane Algorithm
+2) prefix sum techniques
+3) window techniques
+4) Leaders of array
+5) Max difference array
+6) rearrange array alternate
+7) Stock Buy and sell
+8) Rotation of arrays
+9) keeping new and old value for processing at a time (rearrange array with O(1) space)

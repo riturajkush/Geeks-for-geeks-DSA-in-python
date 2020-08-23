@@ -1,0 +1,8 @@
+1) Binary, ternary search
+2) Moore's voting algo
+3) Count 1 in binary array
+3) presence of x in sorted and rotated array
+4) Square root
+5) Consecutive and sorted is a property
+6) Two pointers approach
+7) Median of two arrays
